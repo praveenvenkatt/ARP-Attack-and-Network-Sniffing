@@ -18,6 +18,11 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal and try execute some kali linux commands
 
+```
+Register Number: 212222040121
+Name: Praveen
+```
+
 ## ARP Attacks:  
 ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC address with an IP of a computer already on the LAN. 
 Boot kali and Windows7 virtual machines.
