@@ -20,7 +20,7 @@ Open terminal and try execute some kali linux commands
 
 ```
 Register Number: 212222040121
-Name: Praveen
+Name: Praveen V
 ```
 
 ## ARP Attacks:  
